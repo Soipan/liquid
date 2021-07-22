@@ -1,4 +1,4 @@
-# liquid
+# Beauty business_project
 
 This is a project i worked on with a friend of mine called Kim. We created a website on a spa, salon and barber shop under one business.
 
